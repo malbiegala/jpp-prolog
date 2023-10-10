@@ -1,4 +1,4 @@
-% Małgorzata Biegała
+% Małgorzata Galińska
 
 % State jest przechowywany jako [PCList, VarMap, ArrayMap].
 % PCList to lista liczników rozkazów poszczególnych procesów.
